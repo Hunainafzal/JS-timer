@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(45deg , #245033 , #334579);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+   .timer {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    font-size: 24px;
+    margin-right: 10px;
+  }
+  
+  .container{
+    text-align: center;
+  
+}
+h1{
+    color: bisque;
+}
+button{
+    border: none;
+    border-radius: 7px;
+    padding: 10px 17px;
+}
+
+.txt{
+    font-size: 50px;
+    color: #789978;
+}
+
+
+
+
+
+
+
+  
